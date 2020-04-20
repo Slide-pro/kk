@@ -2,16 +2,9 @@
 <html lang="en" dir="ltr">
     <meta charset="utf-8">
   <body>
-    <table>
-      <thead>
-      <tr>
-<th><img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="">PROFILE</th>
-<th><h1>RICKY JOHNY</h1>
+      <img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="profile"><h1>RICKY JOHNY</h1>
 <h3>IAM VERY INTELLIGENT</h3>
-<p>I WAKE UP EARLY IN THE MORNING</p><th>
-  </tr>
-  </thead>
-  </table>
+<p>I WAKE UP EARLY IN THE MORNING</p>
 <hr noshade="50">
 <ul>
   <li>iam now studying coding</li>
@@ -39,5 +32,6 @@
 <a href="MY SITE.HTML">CLICK HERE</a>
 
 
-  </body>
+  
+</body>
 </html>
