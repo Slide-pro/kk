@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
     <meta charset="utf-8">
   <body>
-      <img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="profile"><h1>RICKY JOHNY</h1>
+      <img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="">
+      <h1>RICKY JOHNY</h1>
 <h3>IAM VERY INTELLIGENT</h3>
 <p>I WAKE UP EARLY IN THE MORNING</p>
 <hr noshade="50">
