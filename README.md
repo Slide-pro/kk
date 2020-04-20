@@ -1,15 +1,12 @@
 # RICHY 
 <html lang="en" dir="ltr">
-  <head>
     <meta charset="utf-8">
-    <title>RICKY</title>
-  </head>
   <body>
     <table>
       <thead>
       <tr>
 <th><img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="">PROFILE</th>
-<th><h1>RICK JOHNY</h1>
+<th><h1>RICKY JOHNY</h1>
 <h3>IAM VERY INTELLIGENT</h3>
 <p>I WAKE UP EARLY IN THE MORNING</p><th>
   </tr>
