@@ -1,19 +1,10 @@
 <html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>RICKY</title>
-  </head>
   <body>
-    <table>
-      <thead>
-      <tr>
-<th><img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt=""></th>
-<th><h1>RICK JOHNY</h1>
+<img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="">
+  <h1>RICK JOHNY</h1>
 <h3>IAM VERY INTELLIGENT</h3>
-<p>I WAKE UP EARLY IN THE MORNING</p><th>
-  </tr>
-  </thead>
-  </table>
+<p>I WAKE UP EARLY IN THE MORNING</p>
+  
 <hr noshade="50">
 <ul>
   <li>iam now studying coding</li>
@@ -39,7 +30,7 @@
 </table>
 <p>IF YOY WANT TO VIEW MY WEBSITE</p>
 <a href="MY SITE.HTML">CLICK HERE</a>
-<a href="https://slide-pro.github.io/kk/">CLICK HERE</a>
+
 
 
   </body>
