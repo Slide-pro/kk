@@ -1,7 +1,11 @@
-<HTML>
-    <BODY>
-<H1>THIS IS NOT MY ORGINAL WESITE.PLEASE CLICK ON THE LINK TO 
-  VIEW IT</H1>
-   <a href="My profile.html"></a>     
-</body>
-</html>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>this is not my orginal website.please click on the link to view it<h1>
+<a href="My profile.html">click here</a>    
+  </body>
+      </html>
