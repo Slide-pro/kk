@@ -1,14 +1,14 @@
-# RICHY 
+# MY PROFILE 
 <html lang="en" dir="ltr">
     <meta charset="utf-8">
   <body>
-      <img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="">
+      <img src="C:\Users\RR\Desktop\RICKY NECESSARY FILE\lol.png" alt="PROFILE">
       <h1>RICKY JOHNY</h1>
 <h3>IAM VERY INTELLIGENT</h3>
 <p>I WAKE UP EARLY IN THE MORNING</p>
 <hr noshade="50">
 <ul>
-  <li>iam now studying coding</li>
+  <li>Iam now studying coding</li>
   <li>My brother is my asistant</li>
   <li>I love my whole family</li>
 </ul>
@@ -30,7 +30,7 @@
 
 </table>
 <p>IF YOY WANT TO VIEW MY WEBSITE</p>
-<a href="MY SITE.HTML">CLICK HERE</a>
+<a href="MY SITE.HTML">CLICKIN RICKY</a>
 
 
   
